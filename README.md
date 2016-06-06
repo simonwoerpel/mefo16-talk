@@ -3,6 +3,22 @@ Ein Gemeinschaftsprojekt von correctiv.org und der LfM-Stiftung Vor Ort NRW.
 
 
 
+## Vor Ort NRW
+*LfM-Stiftung für Lokaljournalismus*
+- gemeinnützig
+- staatsfern und unabhängig
+- für Vielfalt im Lokal- und Regionaljournalismus in NRW
+- Rundfunk, TV, Internet
+
+
+## Vor Ort NRW
+- Vernetzung
+- Förderung von Qualifizierung
+- Veranstaltungen
+- Preis für herausragende lokaljournalistische Online-Angebote
+- Expertisen (z. B. "Handbuch des selbstbestimmten Lokaljournalismus im Netz")
+
+
 ## correctiv.org
 - gemeinnützig
 - unabhängig
