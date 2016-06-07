@@ -19,6 +19,14 @@ Ein Gemeinschaftsprojekt von correctiv.org und der LfM-Stiftung Vor Ort NRW.
 - Expertisen (z. B. "Handbuch des selbstbestimmten Lokaljournalismus im Netz")
 
 
+## Datenjournalismus NRW
+- 5 fellows
+- Regionalredaktionen NRW
+- Tutorials: Wissensplattform
+- Meetups
+- gemeinsames Großprojekt
+
+
 ## correctiv.org
 - gemeinnützig
 - unabhängig
@@ -76,12 +84,7 @@ Ein Gemeinschaftsprojekt von correctiv.org und der LfM-Stiftung Vor Ort NRW.
 
 
 
-## ddj nrw
-- 5 fellows
-- Regionalredaktionen NRW
-- Tutorials: Wissensplattform
-- Meetups
-- gemeinsames Großprojekt
+## Datenjournalismus NRW
 
 
 > ![meetups](img/meetup.jpg)
@@ -107,6 +110,15 @@ Ein Gemeinschaftsprojekt von correctiv.org und der LfM-Stiftung Vor Ort NRW.
 
 
 > ![lanuv karte](img/no2_karte.png)
+
+
+## Wissensplattform
+
+
+> ![plattform](img/plattform.png)
+
+
+> ![tuts](img/tutorials.png)
 
 
 
@@ -137,6 +149,8 @@ Ein Gemeinschaftsprojekt von correctiv.org und der LfM-Stiftung Vor Ort NRW.
 
 
 # ???
+
+https://correctiv.org/ddj
 
 @LfMNRW
 
